@@ -1,0 +1,14 @@
+.layout {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
+}
+
+.header {
+  text-align: center;
+}
+
+.content {
+  margin-top: 2rem;
+}
