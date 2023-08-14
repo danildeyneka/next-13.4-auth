@@ -1,6 +1,4 @@
-# This is simple Next 13.4
-
-## Getting Started
+# The simplest Next 13.4 auth
 
 ### Create ***.env*** file
 ```
